@@ -67,7 +67,7 @@ To get a local copy of this project up and running, follow these steps:
 ## Live Demo
 
 You can view the live version of my portfolio here:
-[**Shozon Roy Portfolio**](#)
+[**Shozon Roy Portfolio**](https://shozon-roy.github.io/shozonportfolio/)
 
 ---
 
