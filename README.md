@@ -2,8 +2,8 @@
 
 Welcome to the source code for my portfolio website! This repository showcases my personal portfolio, which highlights my skills, projects, and expertise in frontend development, UI/UX design, and tech blogging.
 
-![Portfolio Preview](https://i.postimg.cc/28fz0J6T/chrome-screenshot-Jan-2-2026-11-48-08-PM-GMT-06-00.png) 
-&
+
+
 ![1](https://raw.githubusercontent.com/Shozon-Roy/shozonportfolio/refs/heads/main/Free%20Fire%20TopUp%20Website%20Available.jpg)
 ![1](https://raw.githubusercontent.com/Shozon-Roy/shozonportfolio/refs/heads/main/NID%20Server%20Copy%20Website.jpg)
 ![1](https://raw.githubusercontent.com/Shozon-Roy/shozonportfolio/refs/heads/main/Auto%20Payment%20Gateway%20Website.jpg)
